@@ -1,14 +1,19 @@
-.. camvid_deploy documentation master file, created by sphinx-quickstart.
+.. camvid_deploy documentation master file, created by
+   sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to project camvid_deploy's API docs!
-=============================================
+camvid_deploy documentation!
+==============================================
+
+Contents:
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
 
-   modules
+   getting-started
+   commands
+
 
 
 Indices and tables
